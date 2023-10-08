@@ -5,7 +5,7 @@ Uber has become one of the most famous unicorn companies, offering its services 
 This Python project for beginners aims to analyze Uber rides to detect specific patterns, such as the busiest day or the time with the lowest number of rides.
 
 Actions:
-Read a dataset and display records from it
-Use your detective’s hat and uncover hidden patterns in data
-Find the relationship between different variables
-Draw insights by visualizing these relationships
+* Read a dataset and display records from it
+* Use your detective’s hat and uncover hidden patterns in data
+* Find the relationship between different variables
+* Draw insights by visualizing these relationships
