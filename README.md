@@ -9,3 +9,7 @@ Actions:
 * Use your detective’s hat and uncover hidden patterns in data
 * Find the relationship between different variables
 * Draw insights by visualizing these relationships
+
+## Data sets: 
+* https://www.kaggle.com/code/rajgupta2019/uber-america-traffic-data-analysis/input
+* File : uber-raw-data-sep14.csv
